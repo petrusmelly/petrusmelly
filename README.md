@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Flask, hoping to learn some C#, C, C++
 - 😄 Pronouns: He/him/his
 - 🔨 Building: A Flask CRUD web app and starting to learn some C++ for a game
-- 🧠 School: BA (UT Knoxville), MA (Mizou) in Geography. Learning programming w/no prior experience.
+- 🧠 School: BA (UT Knoxville), MA (Mizzou) in Geography. Learning programming w/no prior experience.
 - ⚡ Fun fact: Lived in 8/50 states icluding AK ❄️ and HI 🏄
 
 <!---
