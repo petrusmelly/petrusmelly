@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @petrusmelly
-- 👀 I’m interested in too many things -- Python and JS, web dev, game dev, C#/C/C++, GIS...
-- 🌱 I’m currently learning Python and Flask, hoping to learn some C#, C, C++
+- 👀 I’m interested in WebDev and GameDev
+- 🌱 I’m currently learning Python and Flask, hoping to learn some C#/C++ and Unity/Unreal
 - 😄 Pronouns: He/him/his
-- 🔨 Building: A Flask CRUD web app and starting to learn some C++ for a game
+- 🔨 Building: A Flask CRUD Web App and about to start some Udemy Courses on GameDev
 - 🧠 School: BA (UT Knoxville), MA (Mizzou) in Geography. Learning programming w/no prior experience.
 - ⚡ Fun fact: Lived in 8/50 states icluding AK ❄️ and HI 🏄
 
